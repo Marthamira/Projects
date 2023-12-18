@@ -1,1 +1,1 @@
-My first node project, " Writing a file using node.js"
+Some content!
